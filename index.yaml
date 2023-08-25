@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  k8s-service:
+  - apiVersion: v1
+    created: 2019-03-19T17:17:36.566931429Z
+    description: A Helm chart to package your application container for Kubernetes
+    digest: a7c9d45f9d0dd57c5fa2796b595438e4dd8a6b8f3d69e294605be2ada5b8a1e6
+    home: https://github.com/tpayne/helm-kubernetes-services
+    maintainers:
+    - email: tim.tpayne@gmail.com
+      name: Gruntwork/Tim Payne
+      url: https://gruntwork.io
+    name: k8s-service
+    urls:
+    - https://github.com/tpayne/helm-kubernetes-services/releases/k8s-service-0.0.1-custom.tgz
+    version: v0.0.1-custom
