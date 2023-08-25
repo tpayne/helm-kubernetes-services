@@ -3,17 +3,12 @@ entries:
   k8s-service:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-08-25T13:44:01.904466+01:00"
+    created: "2023-08-25T14:00:22.017014+01:00"
     description: A Helm chart to package your application container for Kubernetes
-    digest: 5c8261b0ca59b46ae9a7cf6ea5bc3dd36dc154131a56019cbc288efd293a910b
-    home: https://github.com/tpayne/helm-kubernetes-services
-    maintainers:
-    - email: info@gruntwork.io
-      name: Gruntwors/Tim Payne
-      url: https://gruntwork.io
+    digest: 2c5fefda6cc069addbff41afbb6c944b9d542153097e4422ad234e803f2b845e
     name: k8s-service
     type: application
     urls:
-    - k8s-service-0.0.1-custom.tgz
-    version: 0.0.1-custom
-generated: "2023-08-25T13:44:01.90261+01:00"
+    - k8s-service-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-08-25T14:00:22.014689+01:00"

@@ -2,10 +2,5 @@ apiVersion: v2
 name: k8s-service
 description: A Helm chart to package your application container for Kubernetes
 type: application
-version: 0.0.1-custom
+version: 0.0.1
 appVersion: "0.1.0"
-home: https://github.com/tpayne/helm-kubernetes-services
-maintainers:
-  - name: Gruntwors/Tim Payne
-    email: info@gruntwork.io
-    url: https://gruntwork.io
