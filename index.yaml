@@ -14,3 +14,4 @@ entries:
     urls:
     - https://github.com/tpayne/helm-kubernetes-services/releases/k8s-service-0.0.1-custom.tgz
     version: v0.0.1-custom
+generated: "2023-08-25T12:12:52.692058Z"
